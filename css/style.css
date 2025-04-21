@@ -1,0 +1,26 @@
+body{
+    background-color: cornflowerblue;
+}
+td{
+    width:100px;
+    height:100px;
+    text-align: center;
+}
+#info{
+    color:azure;
+    text-align: center;
+    position: absolute;
+    left:700px;
+    top:450px;
+   }
+#c1,#c2{
+    position: absolute;
+}
+#timing{
+    background-color: azure;
+    color:darkblue;
+    font-size: 60px;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: bold;
+}
